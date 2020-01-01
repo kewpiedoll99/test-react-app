@@ -1,0 +1,2 @@
+As your React app grows, it is common to add a components/ directory to organize components
+and component-related files and a views directory to organize React views and view-related files.
